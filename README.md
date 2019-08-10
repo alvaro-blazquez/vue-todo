@@ -1,5 +1,9 @@
 # vue-todo
 
+## Development container
+This project provides a development container. The conatiner image is defined in a [Dockerfile](.devcontainer/Dockerfile) based on node:lts. It also provides devcontainer configuration of vscode. [https://code.visualstudio.com/docs/remote/containers]
+All this container configuration can be found in [this file](.devcontainer/devcontainer.json) of the project
+
 ## Project setup
 ```
 yarn install
