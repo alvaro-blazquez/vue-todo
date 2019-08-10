@@ -12,5 +12,11 @@
 		"dbaeumer.vscode-eslint",
 		"eamodio.gitlens",
 		"octref.vetur"
+	],
+	// port 8080 for vue app
+	// port 8000 for vue ui
+	"appPort": [
+		8080,
+		8000
 	]
 }
