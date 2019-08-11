@@ -11,7 +11,8 @@
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"eamodio.gitlens",
-		"octref.vetur"
+		"octref.vetur",
+		"esbenp.prettier-vscode"
 	],
 	// port 8080 for vue app
 	// port 8000 for vue ui
