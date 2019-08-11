@@ -18,5 +18,17 @@
 	"appPort": [
 		8080,
 		8000
-	]
+	],
+	"settings": {
+		"vetur.validation.template": false,
+		"vetur.format.defaultFormatter.html": "none",
+		"eslint.validate": [
+			"javascript",
+			"javascriptreact",
+			{
+				"language": "vue",
+				"autoFix": true
+			}
+		]
+	}
 }
